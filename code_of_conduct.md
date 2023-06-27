@@ -12,3 +12,4 @@ We expect all contributors to:
 - Use inclusive language and avoid derogatory or offensive comments.
 - Accept constructive criticism gracefully and provide constructive feedback.
 - Be open-minded and welcoming to diverse perspectives and ideas.
+
